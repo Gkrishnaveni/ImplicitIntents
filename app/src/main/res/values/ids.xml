@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="website_edittext" type="id">website_edittext</item>
+    <item name="location_editext" type="id">location_editext</item>
+    <item name="share_edittext" type="id">share_edittext</item>
+</resources>
